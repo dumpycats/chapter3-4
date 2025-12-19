@@ -20,7 +20,7 @@ body {
     font-family: "8bitoperator_ru";
     font-style: normal;
     font-weight: 400;
-    src: url(/fonts/a.ttf) format("truetype");
+    src: url("../fonts/a.ttf") format("truetype");
 }
 
 body {
